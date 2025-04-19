@@ -45,3 +45,7 @@ impl TreeNode {
     }
   }
 }
+
+pub struct Solution {
+
+}
