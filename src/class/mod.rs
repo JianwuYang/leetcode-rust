@@ -2,3 +2,8 @@ pub mod class_36_4;
 pub mod class_36_5;
 pub mod class_36_6;
 pub mod class_38_1;
+pub mod class_38_2;
+pub mod class_38_3;
+pub mod class_38_4;
+pub mod class_38_5;
+pub mod class_38_6;
